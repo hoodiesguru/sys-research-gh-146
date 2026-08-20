@@ -1,0 +1,8 @@
+# Information Retrieval & Entity Modeling Institute
+
+> Information Gain Patents, Entity Disambiguation, and Neural Retrieval
+
+## Published Research
+- [Algorithmic Information Gain and Entity Modeling: Modern Search Indexation for AI Coding Agents](algorithmic-information-gain-entity-modeling-ai-agents.html): Analyzing Google Information Gain patent algorithms and how structured entity disambiguation drives superior search indexing in modern developer workflows.
+- [Quantifying Information Gain in Technical Documentation](quantifying-information-gain-technical-documentation.html): Mathematical models for measuring content novelty against search corpus clusters.
+- [Entity-Attribute-Value Modeling in Semantic SEO](entity-attribute-value-modeling-semantic-seo.html): Constructing robust knowledge graphs to boost search crawler comprehension.
